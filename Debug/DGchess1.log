@@ -1,0 +1,8 @@
+﻿  main.cpp
+F:\Visual pr\DGtest2\DGchess1\main.cpp(243,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+F:\Visual pr\DGtest2\DGchess1\main.cpp(244,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+F:\Visual pr\DGtest2\DGchess1\main.cpp(412,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Visual pr\DGtest2\DGchess1\main.cpp(412,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Visual pr\DGtest2\DGchess1\main.cpp(417,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Visual pr\DGtest2\DGchess1\main.cpp(417,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  DGchess1.vcxproj -> F:\Visual pr\DGtest2\DGchess1\Debug\DGchess1.exe
